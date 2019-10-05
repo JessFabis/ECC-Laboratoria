@@ -290,4 +290,32 @@
 
 14. ¿Qué es la notación CamelCase y cuáles son sus tipos? ¿Conoces otro tipo de notación?
 
+    Camel case (estilizado como CamelCase) o caja camello es un estilo de escritura que se aplica a frases o palabras compuestas. El nombre se debe a que las mayúsculas a lo largo de una palabra en CamelCase se asemejan a las jorobas de un camello.
+
+    Existen dos tipos de CamelCase:
+
+    UpperCamelCase (más conocido como PascalCase), cuando la primera letra de cada una de las palabras es mayúscula. Ejemplo: EjemploDeUpperCamelCase.
+
+    lowerCamelCase (o simplemente CamelCase), igual que la anterior con la excepción de que la primera letra es minúscula. Ejemplo: ejemploDeLowerCamelCase.
+
+    Snake Case: Cuando cada una de las palabras, se separa por un guión bajo (_). Es común en los nombres de variables y funciones de lenguajes como C, aunque también Ruby y Python lo han adoptado. 
+
+    Kebab Case: Es igual que el Snake Case, esta vez, son guiones medios (-) los que separan las palabras. Su uso más común es de las urls.
+
 15. ¿Qué es un IDE y cuáles son sus elementos principales?
+
+    Consiste en un editor de código, un compilador, un depurador y un constructor de interfaz gráfica. Los IDEs pueden ser aplicaciones por sí solas o pueden ser parte de aplicaciones existentes. 
+    Los IDE ofrecen un marco de trabajo amigable para la mayoría de los lenguajes de programación.
+
+    Un IDE debe tener las siguientes características:
+
+    - Multiplataforma
+    - Soporte para diversos lenguajes de programación
+    - Integración con Sistemas de Control de Versiones
+    - Reconocimiento de Sintaxis
+    - Extensiones y Componentes para el IDE
+    - Integración con Framework populares
+    - Depurador
+    - Importar y Exportar proyectos
+    - Múltiples idiomas
+    - Manual de Usuarios y Ayuda
